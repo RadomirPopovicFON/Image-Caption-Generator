@@ -1,5 +1,5 @@
 # Image-Caption-Generator
-Generating captions for images using deep learning model with pre-trained embeddings [Fasttext](https://fasttext.cc/) and image features from [ResNet](https://keras.io/api/applications/resnet/). [Flickr8k](https://www.kaggle.com/shadabhussain/flickr8k?select=Flickr_Data) dataset was being used for training purposes.
+Generating captions for images using a simple deep learning model with pre-trained embeddings [Fasttext](https://fasttext.cc/) and image features from [ResNet](https://keras.io/api/applications/resnet/). [Flickr8k](https://www.kaggle.com/shadabhussain/flickr8k?select=Flickr_Data) dataset was being used for training purposes.
 
 
 ### Brief pipeline description:
@@ -30,3 +30,5 @@ Results after 1st epoch:
     <td><i>a person in a blue shirt is standing in the air</i></td>
   </tr>
  </table>
+ 
+As we can see, results may not be exactly correct, especially after 1st epoch, e.g. in the third image :). In general, quality of output, along side model hyperparameters, depends on the actual images we include in training. In other words, model will hardly output text of an entity which hasn't seen priorly in the data. 
