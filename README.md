@@ -14,7 +14,7 @@ Generating captions for images using a simple deep learning model with pre-train
   <img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/model.png" width="500">
 </p>
 
-Results after 1st epoch:
+Results after 1st epoch (5 images per batch):
 
 <table>
   <tr>
