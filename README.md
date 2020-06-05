@@ -18,10 +18,10 @@ Results after 1st epoch:
 
 <table>
   <tr>
-    <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/test-1.jpg" width=200 height=150></td>
-    <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/test-2.jpg" width=200 height=150></td>
-    <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/test-3.jpg" width=150 height=200></td>
-    <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/test-4.jpg" width=150 height=200></td>
+    <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/test-1.jpg" width=250 height=150></td>
+    <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/test-2.jpg" width=250 height=150></td>
+    <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/test-3.jpg" width=150 height=250></td>
+    <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/test-4.jpg" width=150 height=250></td>
   </tr>
   <tr>
     <td><i>a basketball player in the air to catch the ball</i></td>
