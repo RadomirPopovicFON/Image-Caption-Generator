@@ -9,7 +9,7 @@ Generating captions for images using deep learning model with pre-trained embedd
 * Model can be tested for a given image and model path. [See .py file here.](https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/test.py)<br/>
 
 
-#### Model example and some of the test results:
+### Model used along with test output:
 <p align="center">
   <img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/model.png" width="500">
 </p>
