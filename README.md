@@ -14,17 +14,19 @@ Generating captions for images using deep learning model with pre-trained embedd
   <img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/model.png" width="500">
 </p>
 
+Results after 1st epoch:
+
 <table>
   <tr>
-    <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/test-1.jpg" width=200 height=200></td>
-    <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/test-2.jpg" width=200 height=200></td>
-    <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/test-3.jpg" width=200 height=200></td>
-    <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/test-4.jpg" width=200 height=200></td>
+    <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/test-1.jpg" width=200 height=150></td>
+    <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/test-2.jpg" width=200 height=150></td>
+    <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/test-3.jpg" width=150 height=200></td>
+    <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/test-4.jpg" width=150 height=200></td>
   </tr>
   <tr>
-    <td>Epoch 1: <i>a basketball player in the air to catch the ball</i></td>
-    <td>Epoch 1: <i>a person in a grassy area </i></td>
-    <td>Epoch 1: <i>a dog with a little girl in a grassy yard</i></td>
-    <td>Epoch 1: <i>a person in a blue shirt is standing in the air</i></td>
+    <td><i>a basketball player in the air to catch the ball</i></td>
+    <td><i>a person in a grassy area </i></td>
+    <td><i>a dog with a little girl in a grassy yard</i></td>
+    <td><i>a person in a blue shirt is standing in the air</i></td>
   </tr>
  </table>
