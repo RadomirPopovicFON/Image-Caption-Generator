@@ -13,3 +13,20 @@ Generating captions for images using deep learning model with pre-trained embedd
 <p align="center">
   <img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/model.png" width="500">
 </p>
+
+<table>
+  <tr>
+    <td>Epoch number</td>
+    <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/model.png" width=200 height=200></td>
+    <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/model.png" width=200 height=200></td>
+    <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/model.png" width=200 height=200></td>
+    <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/model.png width=200 height=200></td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>a basketball player in the air to catch the ball</td>
+    <td>a basketball player in the air to catch the ball</td>
+    <td>a basketball player in the air to catch the ball</td>
+    <td>a basketball player in the air to catch the ball</td>
+  </tr>
+ </table>
