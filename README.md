@@ -31,4 +31,4 @@ Results after 1st epoch:
   </tr>
  </table>
  
-<i>As we can see, output may not be exactly correct, especially after 1st epoch, model can produce some funny results :). In general, quality of the utput, along side model hyperparameters, depends on the actual images we include in training. In other words, model will hardly output text of an entity which hasn't seen priorly in the data. </i>
+<i>As we can see, output may not be exactly correct, especially after 1st epoch, model can produce some funny results :). In general, quality of the utput, along side model hyperparameters, depends on the actual images we include in training. In other words, model will hardly output text of an entity which hasn't seen priorly in the data. (Will be further updated*)</i>
