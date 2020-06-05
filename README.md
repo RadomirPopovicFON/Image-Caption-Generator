@@ -19,7 +19,7 @@ Generating captions for images using deep learning model with pre-trained embedd
     <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/model.png" width=200 height=200></td>
     <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/model.png" width=200 height=200></td>
     <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/model.png" width=200 height=200></td>
-    <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/model.png width=200 height=200></td>
+    <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/model.png" width=200 height=200></td>
   </tr>
   <tr>
     <td><p>a basketball player in the air to catch the ball</p></td>
