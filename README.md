@@ -13,6 +13,6 @@ Generating captions for images using deep learning model with pre-trained embedd
 
 
 #### Model example and some of the test results:
-<center><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/model.png" width="500"></center>
-
-
+<p align="center">
+  <img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/model.png" width="500">
+</p>
