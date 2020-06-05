@@ -32,3 +32,13 @@ Results after 1st epoch (5 images per batch):
  </table>
  
 <i>As we can see, output may not be exactly correct, especially after 1st epoch, model can produce some funny results :). In general, quality of the utput, along side model hyperparameters, depends on the actual images we include in training. In other words, model will hardly output text of an entity which hasn't seen priorly in the data. (Will be further updated*)</i>
+
+5th epoch:
+<table>
+  <tr>
+    <td><i>a basketball player in the air to catch the ball</i></td>
+    <td><i>a person in a grassy area </i></td>
+    <td><i>a dog with a little girl in a grassy yard</i></td>
+    <td><i>a person in a blue shirt is standing in the air</i></td>
+  </tr>
+ </table>
