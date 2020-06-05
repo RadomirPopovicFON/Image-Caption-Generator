@@ -18,27 +18,26 @@ Results after 1st epoch (5 images per batch):
 
 <table>
   <tr>
+    <td>Epoch #</td>
     <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/test-1.jpg" width=250 height=200></td>
     <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/test-2.jpg" width=150 height=250></td>
     <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/test-3.jpg" width=150 height=250></td>
     <td><img src="https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/images/test-4.jpg" width=150 height=250></td>
   </tr>
   <tr>
+    <td>1</td>
     <td><i>a basketball player in the air to catch the ball</i></td>
     <td><i>a football player in red uniform uniform red uniform uniform red uniform</i></td>
     <td><i>a dog with a little girl in a grassy yard</i></td>
     <td><i>a man in red shorts is playing on the back</i></td>
   </tr>
   <tr>
- 
-<i>As we can see, output may not be exactly correct, especially after 1st epoch, model can produce some funny results :). In general, quality of the utput, along side model hyperparameters, depends on the actual images we include in training. In other words, model will hardly output text of an entity which hasn't seen priorly in the data. (Will be further updated*)</i>
-
-5th epoch:
-</tr>
-  <tr>
+    <td>5</td>
     <td><i>a basketball player in blue is ready to hit the ball</i></td>
     <td><i>football player in red sooners</i></td>
     <td><i>a dog runs through a field</i></td>
     <td><i>a woman with a colorful mohawk is laying on the back</i></td>
   </tr>
  </table>
+
+<i>As we can see, output may not be exactly correct, especially after 1st epoch, model can produce some funny results :). In general, quality of the utput, along side model hyperparameters, depends on the actual images we include in training. In other words, model will hardly output text of an entity which hasn't seen priorly in the data. (Will be further updated*)</i>
