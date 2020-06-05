@@ -25,9 +25,9 @@ Results after 1st epoch (5 images per batch):
   </tr>
   <tr>
     <td><i>a basketball player in the air to catch the ball</i></td>
-    <td><i>a person in a grassy area </i></td>
+    <td><i>a football player in red uniform uniform red uniform uniform red uniform</i></td>
     <td><i>a dog with a little girl in a grassy yard</i></td>
-    <td><i>a person in a blue shirt is standing in the air</i></td>
+    <td><i>a man in red shorts is playing on the back</i></td>
   </tr>
  </table>
  
@@ -36,9 +36,9 @@ Results after 1st epoch (5 images per batch):
 5th epoch:
 <table>
   <tr>
-    <td><i>a basketball player in the air to catch the ball</i></td>
-    <td><i>a person in a grassy area </i></td>
-    <td><i>a dog with a little girl in a grassy yard</i></td>
-    <td><i>a person in a blue shirt is standing in the air</i></td>
+    <td><i>a basketball player in blue is ready to hit the ball</i></td>
+    <td><i>football player in red sooners</i></td>
+    <td><i>a dog runs through a field</i></td>
+    <td><i>a woman with a colorful mohawk is laying on the back</i></td>
   </tr>
  </table>
