@@ -8,7 +8,8 @@ In this project I wanted to investigate, does using pre-trained features within 
 * Model is being trained by combining embedding and resnet50 features. After each epoch, weights are being saved and are available for testing. As arguments one can pass number of epochs, number of images per batch. Additionally, one can change other model hyperparameters within the code directly. [See .py file here.](https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/train.py)
 * Model can be tested for a given image and model path. [See .py file here.](https://github.com/RadomirPopovicFON/Image-Caption-Generator/blob/master/test.py)<br/>
 
-*Note that for training, one needs to obtain embeddings in .txt format. Testing is available, since necessary caption data and model weights are within the repository. 
+*Note that for training, one needs to obtain embeddings in .txt format and download dataset images, as well as to provide necessary paths within the notebook accordingly. <br/>
+Testing is rather directly available, since necessary caption data and model weights are within the repository. 
 
 ### Model used along with test output:
 <p align="center">
