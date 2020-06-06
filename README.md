@@ -38,6 +38,13 @@ Results after 1st epoch (5 images per batch):
     <td><i>a dog runs through a field</i></td>
     <td><i>a woman with a colorful mohawk is laying on the back</i></td>
   </tr>
+  <tr>
+    <td></td>
+    <td><i>a basketball player in blue is ready to hit the ball</i></td>
+    <td><i>football player in red sooners</i></td>
+    <td><i>a dog runs through a field</i></td>
+    <td><i>a woman with a colorful mohawk is laying on the back</i></td>
+  </tr>
  </table>
 
-<i>As we can see, output may not be exactly correct, especially after 1st epoch, model can produce some funny results :). In general, quality of the output, along side model hyperparameters, depends on the actual images we include in training. In other words, model will hardly output text of an entity which hasn't seen priorly in the data. </i>
+<i>Using the aforemention architecture, output may not be exactly correct, especially after 1st epoch, model can produce some funny results :). In general, quality of the output, along side model hyperparameters, depends on the actual images we include in training. In other words, model will hardly output text of an entity which hasn't seen priorly in the data. Furthermore, as the number of epochs increases, corresponding results may not necessarily be more precise. One of the reasons for such behavior is the inability of the model to continue reducing the error rate. (Model will be updated and further investigated in the future*)</i>
