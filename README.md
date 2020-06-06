@@ -39,12 +39,12 @@ Results after 1st epoch (5 images per batch):
     <td><i>a woman with a colorful mohawk is laying on the back</i></td>
   </tr>
   <tr>
-    <td></td>
-    <td><i>a basketball player in blue is ready to hit the ball</i></td>
-    <td><i>football player in red sooners</i></td>
-    <td><i>a dog runs through a field</i></td>
-    <td><i>a woman with a colorful mohawk is laying on the back</i></td>
+    <td>50</td>
+    <td><i>basketball players are jumping with basketball in the air</i></td>
+    <td><i>football player sooners football</i></td>
+    <td><i>a dog is running across a pile leading a ball in its mouth surfs</i></td>
+    <td><i>a woman topless on a blue and white merry while boxing with her makeup on</i></td>
   </tr>
  </table>
-
-<i>Using the aforemention architecture, output may not be exactly correct, especially after 1st epoch, model can produce some funny results :). In general, quality of the output, along side model hyperparameters, depends on the actual images we include in training. In other words, model will hardly output text of an entity which hasn't seen priorly in the data. Furthermore, as the number of epochs increases, corresponding results may not necessarily be more precise. One of the reasons for such behavior is the inability of the model to continue reducing the error rate. (Model will be updated and further investigated in the future*)</i>
+<br/>
+<i>Using the aforemention architecture, output may not be exactly correct, especially after 1st epoch, model can produce some funny results :). In general, quality of the output, along side model hyperparameters, depends on the actual images we include in training. In other words, model will hardly output text of an entity which hasn't seen priorly in the data. <br/>Furthermore, as the number of epochs increases, corresponding captions may not appear to be more accurate. One of the reasons for such behavior is the inability of the model to continue to reduce the error rate. (Model will be updated in the future*)</i>
