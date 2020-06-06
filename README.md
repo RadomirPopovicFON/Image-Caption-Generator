@@ -28,23 +28,23 @@ Results after 1st epoch (5 images per batch):
     <td>1</td>
     <td><i>a basketball player in the air to catch the ball</i></td>
     <td><i>a football player in red uniform uniform red uniform uniform red uniform</i></td>
-    <td><i>a dog with a little girl in a grassy yard</i></td>
+    <td><i>a dog runs through the grass</i></td>
     <td><i>a man in red shorts is playing on the back</i></td>
   </tr>
   <tr>
-    <td>5</td>
-    <td><i>a basketball player in blue is ready to hit the ball</i></td>
-    <td><i>football player in red sooners</i></td>
-    <td><i>a dog runs through a field</i></td>
-    <td><i>a woman with a colorful mohawk is laying on the back</i></td>
+    <td>10</td>
+    <td><i>a basketball player in uniform is ready to throw the player in the air</i></td>
+    <td><i>football player in red sooners ready to throw the player</i></td>
+    <td><i>a small dog is jumping over a small dog</i></td>
+    <td><i>a man with a mohawk and a yellow shirt is laying on the back</i></td>
   </tr>
   <tr>
-    <td>50</td>
-    <td><i>basketball players are jumping with basketball in the air</i></td>
+    <td>40</td>
+    <td><i>basketball players are tackling basketball and one is surfer</i></td>
     <td><i>football player sooners football</i></td>
-    <td><i>a dog is running across a pile leading a ball in its mouth surfs</i></td>
-    <td><i>a woman topless on a blue and white merry while boxing with her makeup on</i></td>
+    <td><i>a dog is running through a forest</i></td>
+    <td><i>a man with a orange hat and a brown jacket has a cigarette on his beach</i></td>
   </tr>
  </table>
 <br/>
-<i>Using the aforemention architecture, output may not be exactly correct, especially after 1st epoch, model can produce some funny results :). In general, quality of the output, along side model hyperparameters, depends on the actual images we include in training. In other words, model will hardly output text of an entity which hasn't seen priorly in the data. <br/><br/>Furthermore, as the number of epochs increases, corresponding captions may not appear to be lineraly more accurate. In fact, quality may decrease sometimes. One of the reasons for such behavior is the inability of the model to continue to reduce the error rate. (Model will be updated in the future*)</i>
+<i>It may be ambious to conclude whether we had success with this particular model :). In general, quality of the output, along side model hyperparameters, depends on the actual images we include in training: Model will hardly output text of an entity which hasn't seen priorly in the data. </i><br/><br/><i>Furthermore, as the number of epochs increases, corresponding captions may not appear to be lineraly more accurate. In fact, quality may decrease sometimes. One of the reasons for such behavior is the inability of the model to continue to reduce the error rate. (Model will be updated in the future*)</i>
